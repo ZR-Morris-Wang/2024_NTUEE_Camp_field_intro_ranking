@@ -1,0 +1,2 @@
+# 2024_NTUEE_Camp_field_intro_ranking
+電機領域介紹 Kahoot 自動算分排名系統
