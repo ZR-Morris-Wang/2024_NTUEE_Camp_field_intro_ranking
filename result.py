@@ -2,7 +2,7 @@ import pandas as pd
 
 
 # Gets the excel file and converts it to a CSV file
-input_files = ['2024台大電機營P1-電子工程學研究所.xlsx', '2024台大電機營P2-電信工程學研究所生醫電子.xlsx', '2024台大電機營P3-光電工程學研究所 &電機工程學系碩博士班.xlsx']
+input_files = ['2024台大電機營P1-電子工程學研究所.xlsx', '2024台大電機營P2-電信工程學研究所生醫電子.xlsx', '2024台大電機營P3-光電工程學研究所-電機工程學系碩博士班.xlsx']
 output_files = ['P1_raw.csv', 'P2_raw.csv', 'P3_raw.csv']
 
 for input_file, output_file in zip(input_files, output_files):
