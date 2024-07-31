@@ -11,8 +11,10 @@ pip install -r requirements.txt
 
 **2. Use your terminal to run results.py so that results can be directly shown in the terminal**
 ```bash
-python results.txt
+python result.py
 ```
+p.s. idk why using python3 does not log the result into console.
+
 
 note that several csv files would be created, don't get intimidated.
 
